@@ -1,3 +1,3 @@
-# SDGNet-for-Robust-SEI
+# SDG-for-Robust-SEI
 
 To be published soon!
