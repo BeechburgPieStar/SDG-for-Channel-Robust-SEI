@@ -1,3 +1,4 @@
-# SDG-for-Robust-SEI
+# Robust-SEI
 
-To be published soon!
+## (WCNC2025) More is Better: Channel-Robust Radio Frequency Fingerprinting with Random Overlay Augmentation
+
