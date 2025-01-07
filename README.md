@@ -15,4 +15,4 @@ filetree
 └── main.py
 
 ```
-## (TWC2024) Avoiding Shortcuts: Enhancing Channel-Robust Specific Emitter Identification via Single-Source Domain Generalization
+## (TWC2025 Accept!) Avoiding Shortcuts: Enhancing Channel-Robust Specific Emitter Identification via Single-Source Domain Generalization
