@@ -22,6 +22,8 @@ python main.py --mode train_test --model_size S --aug_depth 4
 ```
 
 ## (TWC2025 Accept!) Avoiding Shortcuts: Enhancing Channel-Robust Specific Emitter Identification via Single-Source Domain Generalization
+
+```
 filetree 
 ├── Dataset_ORALCE
 ├── Dataset_WiSig
@@ -32,7 +34,7 @@ filetree
 |  └── get_dataset.py
 ├── weight
 └── main.py
-
+```
 ### How to run?
 
 ```
