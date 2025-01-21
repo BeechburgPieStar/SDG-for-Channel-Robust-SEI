@@ -1,4 +1,4 @@
-# Robust-SEI
+# Towards Channel-Robust-SEI
 
 ## (WCNC2025 Accept!) More is Better: Channel-Robust Radio Frequency Fingerprinting with Random Overlay Augmentation
 
