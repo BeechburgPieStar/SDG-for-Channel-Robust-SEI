@@ -13,14 +13,6 @@ filetree
 |  └── get_dataset.py
 ├── weight
 └── main.py
-
-```
-### Dataset
-
-```
-百度网盘： https://pan.baidu.com/s/1ilpykvcLWpfLjKHd03S4xA?pwd=7wd7
-
-Google：https://drive.google.com/drive/folders/1vLa3p5uX45aJE5IziRCbMIOR5D3YgvkC?usp=sharing
 ```
 
 ### How to run?
@@ -43,6 +35,15 @@ filetree
 ├── weight
 └── main.py
 ```
+
+### Dataset
+
+```
+百度网盘： https://pan.baidu.com/s/1ilpykvcLWpfLjKHd03S4xA?pwd=7wd7
+
+Google：https://drive.google.com/drive/folders/1vLa3p5uX45aJE5IziRCbMIOR5D3YgvkC?usp=sharing
+```
+
 ### How to run?
 
 ```
@@ -56,5 +57,12 @@ WiSig Dataset
 
 python main.py --dataset_name WiSig --mode train_test --model_size S --epochs 200 --main_aug_depth 2 --aux_aug_depth 1 --lambda_con 1.0 100.0 --cuda 0
 ```
+
+### Training and testing logs
+
+```
+/2TWC_Version/log
+```
+
 
 
