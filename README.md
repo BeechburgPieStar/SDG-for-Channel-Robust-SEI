@@ -64,6 +64,23 @@ python main.py --dataset_name WiSig --mode train_test --model_size S --epochs 20
 /2TWC_Version/log
 ```
 
+### Requirement
+
+```
+torch 1.11.0+cu113
+
+torchaudio 0.11.0+cu113
+
+torchinfo 1.8.0
+
+torchsummary 1.5.1
+
+torchvision 0.12.0+cu113
+
+python 3.8.5
+
+```
+
 ### License / 许可证
 
 ```
